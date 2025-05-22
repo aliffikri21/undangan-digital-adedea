@@ -15,16 +15,16 @@ html {
 }
 
 /* Hero Section */
-.hero::before {
+/* .hero::before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    -webkit-background-image: url(/img/bg-prewed2.JPG);
-    -webkit-background-size: cover;
-    -webkit-background-position: center;
+    background-image: url('../img/bg-prewed2.JPG');
+    background-size: cover;
+    background-position: center;
     z-index: -1;
     filter: grayscale(1);
 
@@ -34,14 +34,28 @@ html {
       scale(1.1);
     transition: transform 1.5s cubic-bezier(0.2, 0.9, 0.4, 1);
     will-change: transform;
+} */
 
+.hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/bg-prewed2.JPG');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    filter: grayscale(1);
+    z-index: -1;
 }
+
 
 /* .simply-countdown > .simply-section .simply-amount {
     font-size: 2rem;
 } */
 
-.hero.colored::before {
+.hero.colored .hero-bg {
   filter: grayscale(0);
   transition: 0.4s ease-in-out;
 }
