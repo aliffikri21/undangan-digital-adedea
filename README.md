@@ -6,7 +6,7 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript**, proyek ini menghadirkan pengal
 
 
 
-**Mata Kuliah : Advance Programming**
+**Mata Kuliah : Advance Programming** |
 **Dosen Pengampu : Ramlan M.Kom**
 ---
 
