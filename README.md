@@ -4,6 +4,10 @@
 
 Dibuat menggunakan **HTML, CSS, dan JavaScript**, proyek ini menghadirkan pengalaman undangan modern yang bisa diakses dari mana saja.
 
+
+
+**Mata Kuliah : Advance Programming**
+**Dosen Pengampu : Ramlan M.Kom**
 ---
 
 ## ✨ Fitur Unggulan
