@@ -34,7 +34,7 @@ git clone https://github.com/aliffikri21/undangan-digital-project2.git
 ---
 
 ## 📍 Live Preview
-[Web Deployment](https://aliffikri21.github.io/undangan-digital-project2/)
+[Web Deployment](https://aliffikri21.github.io/undangan-digital-adedea/)
 
 ---
 
