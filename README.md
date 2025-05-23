@@ -25,7 +25,7 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript**, proyek ini menghadirkan pengal
 
 ```bash
 # Clone repositori
-git clone https://github.com/aliffikri21/undangan-digital-project2.git
+git clone https://github.com/aliffikri21/undangan-digital-adedea.git
 
 # Buka index.html di browser favorit Anda
 
